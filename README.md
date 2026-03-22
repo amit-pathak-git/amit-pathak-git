@@ -8,18 +8,23 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Backend Developer @ SAP CAP (Node.js)
-- ⚡ 2+ years building scalable apps
+-  💼 Senior Developer **@ AsInt**  
+- ⚡ 4 years building scalable apps
+- 🔥 Improved system performance by **70%+** & reduced failures by **90%**  
+- 🧠 Strong in **Backend Architecture, Scalability & System Design and Frontend Architecture**   
 - 🌱 Currently learning DSA & System Design
 - 🎯 Goal: Crack FAANG/MNC
 
 ---
 
 ### 🛠️ Tech Stack
-- Frontend: React, JavaScript, HTML, CSS
+- Frontend: React, Vue, JavaScript, HTML, CSS
 - Backend: Node.js, Express, SAP CAP
 - DB: HANA, MySQL
 - Tools: Git, Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,express,mysql,docker,git" />
+</p>
 
 ---
 
@@ -31,13 +36,43 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 Project 1 – Short description
-- 🔹 Project 2 – Short description
-- 🔹 Project 3 – Short description
+## 🚀 Featured Projects
+
+### 🔹 Workflow Builder (AsInt Edge)
+- Built a dynamic workflow system using Vue.js  
+- Designed scalable architecture for enterprise workflows  
+
+### 🔹 High-Performance Queue System
+- Engineered rate-limiting & queue system  
+- Prevented crashes under high load  
+
+### 🔹 Microservices Optimization Engine
+- Reduced API latency by **70%+**  
+- Implemented batching, caching, and retry logic  
 
 ---
 
-### 📫 Connect with me
-- LinkedIn: <your-link>
-- Email: <your-email>
+## 🧠 What I Focus On
+
+- ⚡ System Design  
+- 🚀 Scalability  
+- 🧩 Clean Architecture  
+- 🔥 Performance Optimization  
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amit-pathak-ami">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Pathak-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:amitpathakiu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+💡 *"I don’t just write code, I build systems that scale."*
