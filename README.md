@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Pathak</h1>
+<h3 align="center">🚀 Full Stack Developer | React.js | Node.js | | Vue.js | SAP CAP</h3>
 
-<!--
-**amit-pathak-git/amit-pathak-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-pathak-git&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 💼 Backend Developer @ SAP CAP (Node.js)
+- ⚡ 2+ years building scalable apps
+- 🌱 Currently learning DSA & System Design
+- 🎯 Goal: Crack FAANG/MNC
+
+---
+
+### 🛠️ Tech Stack
+- Frontend: React, JavaScript, HTML, CSS
+- Backend: Node.js, Express, SAP CAP
+- DB: HANA, MySQL
+- Tools: Git, Docker
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-pathak-git&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-pathak-git&theme=radical" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 Project 1 – Short description
+- 🔹 Project 2 – Short description
+- 🔹 Project 3 – Short description
+
+---
+
+### 📫 Connect with me
+- LinkedIn: <your-link>
+- Email: <your-email>
