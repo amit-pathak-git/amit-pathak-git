@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
--  💼 Senior Developer **@ AsInt**  
+-  💼 Senior Consultant - Developer **@ Thoughtworks**  
 - ⚡ 4 years building scalable apps
 - 🔥 Improved system performance by **70%+** & reduced failures by **90%**  
 - 🧠 Strong in **Backend Architecture, Scalability & System Design and Frontend Architecture**   
